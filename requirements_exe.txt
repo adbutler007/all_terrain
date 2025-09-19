@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+matplotlib
+xlrd==1.2.0
+pyinstaller
